@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Martimnio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Martimnio/Martimnio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋Oi sou @Martimnio
+👀 Estou interessado aprender novas tecnologias e principalmente desenvolver minhas habilidades de programação em python e reactjs.
+🌱 Atualmente estou cursando Sistemas de computação e aprendendo sobre lógicas de programação e estrutura de dados.
+💞️ Estou procurando colaborar em projetos que me possa ajudar a aprender mais!
+📫 Como me encontrar: instagram @ pedro_soares042
