@@ -1,10 +1,10 @@
-👋Oi sou @Martimnio. Nome real: Pedro Soares
+👋Hi, I'm @Martimnio. Real name: Pedro Soares
 
-👀 Estou interessado aprender novas tecnologias e principalmente desenvolver minhas habilidades de programação em python e reactjs.
+👀 I'm insterested in learning new tehcnologies and mainly develop my programming skills in python and ReactJS.
 
-🌱 Atualmente estou cursando Sistemas de computação e aprendendo sobre lógicas de programação e estrutura de dados.
+🌱I'm currently graduating in coputing sytems and learning about programming logic and data structure.
 
-💞️ Estou procurando colaborar em projetos que me possa ajudar a aprender mais!
+💞️Looking for projects to colaborate that will help me learn more!
 
-📫 Como me encontrar: instagram @ pedro_soares042
+📫You can find me in : instagram @pedro_soares042
 
