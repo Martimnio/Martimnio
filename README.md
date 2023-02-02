@@ -2,7 +2,7 @@
 
 👀 I'm insterested in learning new technologies and mainly develop my programming related to Quality Assurance and Web development
 
-🌱I'm currently graduating in computing sytems and working in an internship at Projetus TI in QA sector
+🌱I'm currently graduating in computing systems and working in an internship at Projetus TI in QA sector
 
 💞️Looking for projects to colaborate that will help me learn more!
 
