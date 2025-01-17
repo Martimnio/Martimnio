@@ -1,10 +1,9 @@
-👋Hi, I'm @Martimnio. Real name: Pedro Soares
+Hi there! I'm Pedro, a 24-year-old Computing Systems graduate passionate about technology and continuous learning.
 
-👀 I'm insterested in learning new technologies and mainly develop my programming related to Quality Assurance and Web development
+I currently work as a QA Analyst, ensuring software quality through robust testing and automation. I also have experience in web development, creating efficient and user-friendly solutions.
 
-🌱I'm currently graduating in computing systems and working in an internship at Projetus TI in QA sector
+I'm constantly improving my skills, exploring areas like DevOps and test automation frameworks, and building projects to sharpen my technical expertise.
 
-💞️Looking for projects to colaborate that will help me learn more!
+I enjoy tackling challenges, collaborating on innovative ideas, and sharing knowledge with the tech community.
 
-📫You can find me in : instagram @pedro_soares042
-
+Feel free to connect with me or explore my projects here! Let's build something great together!
