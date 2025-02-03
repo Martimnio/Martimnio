@@ -6,4 +6,4 @@ I'm constantly improving my skills, exploring areas like DevOps and test automat
 
 I enjoy tackling challenges, collaborating on innovative ideas, and sharing knowledge with the tech community.
 
-Feel free to connect with me or explore my projects here! Let's build something great together!
+Feel free to connect with me or explore my projects here!
